@@ -1,7 +1,3 @@
 Teste de Mudança
-<<<<<<< HEAD
-Troca para o master
-=======
 Mudança branch 
 Apenas disprepantes
->>>>>>> discrepantes
